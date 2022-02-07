@@ -1,0 +1,1 @@
+[{"myComputer": true, "ip": "10.0.0.13", "hostname": "Dan-PC", "mac": "00-24-8C-33-7C-1C", "isUsingSNMP": false, "router": false}, {"myComputer": false, "ip": "10.0.0.138", "hostname": "Router", "mac": "20-4e-7f-26-67-90", "isUsingSNMP": false, "router": true}]
